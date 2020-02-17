@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>引流觞曲水 墨谁人心扉</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-02-17T16:33:55.114Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>流墨</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>主页</title>
+    <link href="http://yoursite.com/2020/02/17/hello-world/"/>
+    <id>http://yoursite.com/2020/02/17/hello-world/</id>
+    <published>2020-02-17T10:00:12.467Z</published>
+    <updated>2020-02-17T16:33:55.114Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="记录生活点滴"><a href="#记录生活点滴" class="headerlink" title="记录生活点滴"></a>记录生活点滴</h1><p>目前最近比赛：蓝桥杯4.19</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;记录生活点滴&quot;&gt;&lt;a href=&quot;#记录生活点滴&quot; class=&quot;headerlink&quot; title=&quot;记录生活点滴&quot;&gt;&lt;/a&gt;记录生活点滴&lt;/h1&gt;&lt;p&gt;目前最近比赛：蓝桥杯4.19&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
